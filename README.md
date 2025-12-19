@@ -1,4 +1,4 @@
-# Fourth Down Probability Estimation
+# Estimating Fourth-Down Conversion Success for Strategic Play-Calling
 
 This repository contains code and analysis for modeling the probability of successfully converting a fourth-down attempt in American football using play-by-play data. The goal is to provide probabilistic guidance that could be integrated into a larger decision-support system for fourth-down strategy.
 
